@@ -4,7 +4,7 @@ This is prestashop speed optimized module. This module is compatiable with prest
 
 # Installation / Usage
 
-Prestashop speed optimized module will be installed by default prestashop modules installation way. There it has no need to add or remove any core files. Or no need to add any code or remove any code. 
+Prestashop default modules installation system.  
 
 # Support
 
