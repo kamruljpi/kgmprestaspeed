@@ -1,4 +1,4 @@
-#PrestaShop Speed Optimized Modules By Kamrulzzaman
+# PrestaShop Speed Optimized Modules By Kamrulzzaman
 
 This is prestashop speed optimized module. This module is compatiable with prestashop 1.6.X.X to prestashop 1.7.X.X version. 
 
@@ -6,7 +6,7 @@ This is prestashop speed optimized module. This module is compatiable with prest
 
 Prestashop speed optimized module will be installed by default prestashop modules installation way. There it has no need to add or remove any core files. Or no need to add any code or remove any code. 
 
-#Support
+# Support
 
 If you fetch any issue please feel free to create a issue. I will help you to solve the issue. 
 
